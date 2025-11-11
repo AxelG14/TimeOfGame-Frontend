@@ -1,0 +1,16 @@
+.navbar{
+    border: 2px solid orange;
+    margin-inline: 10%;
+    margin-top: 1rem;
+    border-radius: 1rem;
+
+    
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    gap: 25rem;
+    
+}
+
